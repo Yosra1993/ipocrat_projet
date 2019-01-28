@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ipocrat_projet/precache-manifest.944864d097bda77a9ab071c45c0affe1.js"
+  "/ipocrat_projet/precache-manifest.7f0ca02489fcaf561c241dbc574295c6.js"
 );
 
 workbox.clientsClaim();
