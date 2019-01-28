@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Yosra1993/ipocrat_projet/precache-manifest.8cbe8c270b50c84d8b828b91c2b56697.js"
+  "/ipocrat_projet/precache-manifest.729f6d470dc98931e748c198a6344a9e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Yosra1993/ipocrat_projet/index.html", {
+workbox.routing.registerNavigationRoute("/ipocrat_projet/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
