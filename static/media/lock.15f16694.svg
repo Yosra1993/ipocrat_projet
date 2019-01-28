@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="25px" viewBox="0 0 19 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="middle-office" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="se-conncter" transform="translate(-825.000000, -512.000000)" stroke="#7E57C5" stroke-width="1.5">
+            <g id="Group-5" transform="translate(826.000000, 513.000000)">
+                <g id="Group-2-Copy">
+                    <circle id="Oval" cx="8" cy="16" r="2"></circle>
+                    <path d="M17,13 C17,10.790861 15.209139,9 13,9 L4,9 C1.790861,9 4.4408921e-16,10.790861 0,13 L0,19 C4.4408921e-16,21.209139 1.790861,23 4,23 L13,23 C15.209139,23 17,21.209139 17,19 L17,13 Z" id="Shape"></path>
+                    <path d="M3,9.126 L3,5.5 C3,2.46243388 5.46243388,5.55111512e-16 8.5,0 C11.5375661,-5.55111512e-16 14,2.46243388 14,5.5 L14,9.126" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
