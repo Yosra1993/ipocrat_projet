@@ -1,0 +1,151 @@
+.form-login{
+  background-color: rgba(121, 116, 191, 0.07);
+  height: 700px;
+}
+.card{
+  border-radius: 1.3rem !important;
+
+}
+input{
+  border-radius: 1.25rem !important;
+  
+}
+.form-control {
+  width: 100%;
+  height: calc(3rem + 2px);
+  padding: .375rem 3rem;
+}
+form{
+  width: 85% !important;
+
+}
+.events-app{
+  background-color: whitesmoke;
+
+}
+.cardItemPage-container
+{
+  background-color: whitesmoke;
+
+}
+.login{
+  background-color: #BCBADF  !important;
+    color: white !important;
+    font-weight: bold;
+    border-radius: 21px;
+    width: 54%;
+    font-size: 1rem;
+    text-transform: initial;
+    width: 90%;
+    height: 3rem;
+
+}
+.login:active {
+  background-color: #BCBADF!important;
+}
+.login:focus
+{
+  background-color: #BCBADF!important;
+}
+.navbar{
+  height: 5.6rem;
+  margin-left: -1.9rem;
+}
+/* .SelectedListItem-root-1
+{background-color: rgb(48, 44, 88);
+margin-top: -4rem;
+} */
+
+.logo-small{
+    justify-content: center!important;
+    background-color: rgb(121, 116, 191);
+    margin-top: -0.5rem;
+}
+.card-list-container{
+      /* display: flex; */
+      border: 1px solid beige;
+      /* justify-content: space-evenly; */
+      /* flex-wrap: wrap; */
+      background-color: white;
+      border-radius: 1.5rem;
+      padding: 2rem 3rem;
+      margin-left: 1rem;
+      margin-top: 3rem;
+      box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2), 0px 6px 10px 0px rgba(0,0,0,0.14), 0px 1px 18px 0px rgba(0,0,0,0.12);
+
+}
+.card-list-container-detaille{
+  /* display: flex; */
+  border: 1px solid beige;
+  /* justify-content: space-evenly; */
+  /* flex-wrap: wrap; */
+  background-color: white;
+  border-radius: 1.5rem;
+  padding: 2rem 0.7rem;
+  margin-left: 1rem;
+  margin-top: 3rem;
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2), 0px 6px 10px 0px rgba(0,0,0,0.14), 0px 1px 18px 0px rgba(0,0,0,0.12);
+
+}
+
+.card-list{
+    margin-top: 2rem;
+
+}
+.button-add
+{
+  display: flex;
+    justify-content: flex-end;
+}
+.disciplines
+{
+  display: flex
+}
+/* .MuiButtonBase-root-18
+{
+  background-color: rgb(121, 116, 191) !important;
+  color: white
+} */
+.like{
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}
+.buttons{
+  border-left: 1px solid darkgray;
+    padding: 0.5rem;
+    border-left-style: ridge;
+    
+}
+.btn-fab:hover{
+  background:rgb(121, 116, 191)!important;
+}
+.btn-fab:active{
+  background:rgb(121, 116, 191)!important;
+}
+.material-icons-btn
+{
+  padding: 13px;
+
+}
+.price{
+  border: 1px solid rgb(121, 116, 191);
+  padding: 1px -29px;
+  /* padding: 0px 6px; */
+  width: 102px;
+  padding: 8px;
+  border-radius: 0.3rem;
+}
+.custom-control-label::before {
+   border-color: #adb5bd !important;
+}
+.card-item{
+  border-radius: 0.6rem !important;
+
+}
+.card-item-1
+{
+  margin-top: 1.5rem;
+
+}

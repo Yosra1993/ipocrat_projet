@@ -1,0 +1,21 @@
+{
+	"id": "52c617ee-f09f-4cd3-a1aa-0fe9331a8432",
+	"name": "ipocrat",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "http://bo-ipocrat.satoripop.com:3001/api",
+			"description": "",
+			"enabled": true
+		},
+		{
+			"key": "subsciberToken",
+			"value": "m0vM2jeMPgHlEKlBWvkIMVoCjGYupX99FHyBeFFSc4nApWKMFIbU2VFrG4Snro3G",
+			"description": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2019-01-16T09:03:21.157Z",
+	"_postman_exported_using": "Postman/6.7.1"
+}
